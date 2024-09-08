@@ -1,0 +1,11 @@
+h1{
+    font-family: 'Franklin Gothic Medium';
+    background-color: greenyellow;
+}
+.card {
+    background-color: aqua;
+}
+a {
+    text-align:center;
+    display:block;
+}
