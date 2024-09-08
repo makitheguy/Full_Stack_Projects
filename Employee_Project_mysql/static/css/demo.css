@@ -1,0 +1,12 @@
+h1{
+    color: crimson;
+    background-color: rgb(32, 255, 12);
+}
+td,table{
+    border-style:solid  ;
+    border-inline-color: red;
+    margin: auto;
+    border: 2px solid red;
+    background: yellowgreen;
+    font-size: 30px;
+}
