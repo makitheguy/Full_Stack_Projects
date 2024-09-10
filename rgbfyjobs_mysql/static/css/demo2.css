@@ -1,0 +1,14 @@
+img{
+    height: 200px;
+    width: 300px;
+    float:none;
+    
+}
+
+table,thead,th,tr,td{
+    color: rgb(0, 30, 57);
+    border: 2px solid black;
+    table-layout:unset;
+    border-collapse: collapse;
+    tr:hover {background-color: coral;}
+}
